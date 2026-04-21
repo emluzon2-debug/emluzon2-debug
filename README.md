@@ -1,12 +1,39 @@
-<h1 align="center">Hi 👋, I'm Efren Luzon II</h1>
-<h3 align="center">A student from Ateneo de Davao University, currently taking the course General Biology</h3>
+<!-- Header -->
+<div align="center">
+  <h1>Hi there, I'm Efren! 👋</h1>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=0AE400&background=183612&width=435&lines=General+Biology+Student)](https://git.io/typing-svg)  
+  <p><strong>3rd Year Student Ateneo de Davao University, Philippines
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emluzon2-debug&label=Profile%20views&color=0e75b6&style=flat" alt="emluzon2-debug" /> </p>
+---
 
-- 📫 How to reach me **emluzon2@addu.edu.ph**
+<!-- About me -->
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/samplename" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samplename" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/samplechannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samplechannel" height="30" width="40" /></a>
-</p>
+- 🧬 Currently undertaking Bachelor of Science in General Biology
+- Hobbies include reading novels 📚 (genre can be fantasy✨, sci-fi📱, slice of life🕊) and gaming 🎮 (Valorant🔫, Minecraft⛏)
+- 📫 Reach me at: `your.email@example.com`
+- ⚡ Fun fact: I love playing minecraft to destress from life.
+
+
+<!-- For nicer icons, you can use: https://github.com/tandpfun/skill-icons -->
+<!-- Example: <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python" /> -->
+
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## ✨ Fun Extras
+- 🌴 Likes to eat chocolate
+- 💡 Always excited to try out new things
+
+Thanks for visiting my profile! Feel free to explore my repositories ⭐
